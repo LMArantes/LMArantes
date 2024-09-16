@@ -11,9 +11,8 @@ I am currently a Computer Science student at Kent State University with a Cybers
 * ⚡  I'm currently an IT Technician at the KSU Division of Information Technology<br><br>
 
 
-<div align="right">
-  <img src="https://upload.wikimedia.org/wikipedia/en/2/2a/Kent_State_seal.svg" alt="KSU Logo" width="20%"/>
-</div>
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="50%"/>
+
 
 ### Skills
 
