@@ -1,4 +1,4 @@
-Hi 👋 My name is Lucas
+Hi. I am Lucas.
 ======================
 
 Computer Science Academic
