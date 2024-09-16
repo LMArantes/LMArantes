@@ -10,6 +10,8 @@ I am currently a Computer Science student at Kent State University with a Cybers
 * 🧠  I'm learning GoLang and Cybersecurity
 * ⚡  I'm currently an IT Technician at the KSU Division of Information Technology
 
+![KSU Logo](https://upload.wikimedia.org/wikipedia/en/2/2a/Kent_State_seal.svg)
+
 ### Skills
 
 
