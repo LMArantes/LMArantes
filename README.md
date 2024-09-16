@@ -12,9 +12,9 @@ I am currently a Computer Science student at Kent State University with a Cybers
 
 
 
-![KSU Logo](https://upload.wikimedia.org/wikipedia/en/2/2a/Kent_State_seal.svg)
+![KSU Logo](https://upload.wikimedia.org/wikipedia/en/2/2a/Kent_State_seal.svg)<br>
 
-<br>
+
 ### Skills
 
 
