@@ -1,6 +1,7 @@
 Hi. I am Lucas.
 ======================
 
+
 Computer Science Academic
 -------------------------
 
@@ -9,6 +10,7 @@ I am currently a Computer Science student at Kent State University with a Cybers
 * 🌍  I'm based in Kent, Ohio
 * 🧠  I'm learning GoLang and Cybersecurity
 * ⚡  I'm currently an IT Technician at the KSU Division of Information Technology<br><br>
+* 🌐  Check out my personal [website](lmarantes.com)
 
 
 <img src="https://upload.wikimedia.org/wikipedia/en/2/2a/Kent_State_seal.svg" alt="KSU Logo" width="20%"/><br>
@@ -26,10 +28,5 @@ I am currently a Computer Science student at Kent State University with a Cybers
 
 <p align="left"> <a href="https://www.github.com/lmarantes" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/lmarantes" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/lmarantes"><img src="https://github-readme-stats.vercel.app/api?username=lmarantes&show_icons=true&hide=prs,&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true" alt="lmarantes's GitHub stats" /></a>
-
-![Binary Rain](binary_rain.gif)
+[Buy me a coffee! ☕❤️](https://buymeacoffee.com/lmarantes)
