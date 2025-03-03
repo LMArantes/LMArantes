@@ -9,9 +9,9 @@ I am currently a Computer Science student at Kent State University with a Cybers
 
 * 🌍  I'm based in Kent, Ohio
 * 🧠  I'm learning GoLang and Cybersecurity
-* ⚡  I'm currently an IT Technician at the KSU Division of Information Technology<br><br>
+* ⚡  I'm currently an IT Technician at the KSU Division of Information Technology
 * 🌐  Check out my personal [website](lmarantes.com)
-
+<br><br>
 
 <img src="https://upload.wikimedia.org/wikipedia/en/2/2a/Kent_State_seal.svg" alt="KSU Logo" width="20%"/><br>
 
